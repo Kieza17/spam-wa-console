@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <a href="#"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="https://github.com/IndonesianDev/whatsapp-bot#Requirements"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
  
