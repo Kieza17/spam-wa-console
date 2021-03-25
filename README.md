@@ -1,11 +1,6 @@
-# Keza_WhatsApp_Bot_Indonesia
+# Spamming_WhatsApp_Console
 
-> Keza_WhatsApp_Bot_Indonesia Adalah Bot Whatsapp Yang Di Kontrol Oleh Sistem Computer.
-> Kami Telah Memprogram Bot Ini Dengan Sebaik - Baiknya.
-> Jika Ada Masalah Dalam Bot Ini, Silahkan Chat [Saya](https://wa.me/6285601459079) (Kieza17).
-> Harap Gunakan Script Ini Dengan Sebijak Mungkin!
-> BACA README BIAR TAU CARA INSTALL NYA GMNA!
->
+> Spamming WhatsApp Console Adalah Sebuah Script Yang Berguna Untuk Menjaili Atau Ngerjain Seseorang
 
 <h3 align="center">Sript Ini Dibuat Oleh ❤️ Kieza17</h3>
 <p align="center">
