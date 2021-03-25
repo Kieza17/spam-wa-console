@@ -15,7 +15,7 @@
   <a href="#"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp Kieza17-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia#Requirements">Pembuat Script</a> •
-  <a href="https://github.com/Keza-Developing-Indonesia#installation">Cara Penggunaan</a> •
-  <a href="https://github.com/Keza-Developing-Indonesia#features">Kegunaan</a> •
+  <a href="https://github.com/Keza-Developing-Indonesia#Requirements">[Pembuat Script]</a> •
+  <a href="https://github.com/Keza-Developing-Indonesia#installation">[Cara Penggunaan]</a> •
+  <a href="https://github.com/Keza-Developing-Indonesia#features">[Kegunaan]</a> •
 </p>
