@@ -17,7 +17,7 @@
   <a href="https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Keza-Developing-Indonesia/Spamming_WhatsApp_Console??label=watchers&color=blue&style=flat-square" /></a> <br>
   <img src="https://img.shields.io/github/repo-size/Keza-Developing-Indonesia/Spamming_WhatsApp_Console" /> <br>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console.svg?type=shield"/></a>
-  <a href="https://www.codefactor.io/repository/github/Keza-Developing-Indonesia/Spamming_WhatsApp_Console"><img src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
+  <a href="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot"><img src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
