@@ -4,7 +4,7 @@
 
 <h3 align="center">Sript Ini Dibuat Oleh ❤️ Kieza17</h3>
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" 
+  <a href="https://github.com/Keza-Developing-Indonesia"><img src="https://github.com/Keza-Developing-Indonesia" 
 </p>
 
 <p align="center">
