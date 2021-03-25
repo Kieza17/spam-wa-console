@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://github.com/Keza-Developing-Indonesia"><img src="https://avatars.githubusercontent.com/u/76218793?s=460&u=b25e11a04e068ba835c9e3a3c058b05dde086f0f&v=4" 
 </p>
+    
+<a class="_36or _2y_c _2z0c _2z07" href="https://www.whatsapp.com/download">Download</a>
 
 <p align="center">
   <a href="https://github.com/Keza-Developing-Indonesia"><img title="Author" src="https://img.shields.io/badge/Author-Kieza17-darkred.svg?style=for-the-badge&logo=github" /></a>
