@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img title="Whatsapp-Kieza17" src="https://img.shields.io/badge/Whatsapp Kieza17-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="#"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp Kieza17-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
