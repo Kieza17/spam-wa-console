@@ -13,17 +13,4 @@
 
 <p align="center">
   <a href="#"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-## EXPLANATION
-* [Cara Penggunaan](https://github.com/Keza-Developing-Indonesia#HOW TO USE)
-<p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia#HOW TO USE">[Pembuat Script]</a> •
-  <a href="https://github.com/Keza-Developing-Indonesia#installation">[Cara Penggunaan]</a> •
-  <a href="https://github.com/Keza-Developing-Indonesia#features">[Kegunaan]</a> •
-</p>
- 
- 
- # HOW TO USE
- ```bash
- ```
  
