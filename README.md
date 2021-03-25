@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlvioAdjiJanuar"><img title="Author" src="https://img.shields.io/badge/Author-AlvioAdjiJanuar-darkred.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Keza-Developing-Indonesia"><img title="Author" src="https://img.shields.io/badge/Author-Kieza17-darkred.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
