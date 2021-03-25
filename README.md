@@ -12,13 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia"><img title="Stars" src="https://img.shields.io/github/stars/Keza-Developing-Indonesia/Spamming_WhatsApp_Console?color=black&style=flat-square" /></a>
-  <a href="https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Keza-Developing-Indonesia/Spamming_WhatsApp_Console??color=pink&style=flat-square" /></a>
-  <a href="https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Keza-Developing-Indonesia/Spamming_WhatsApp_Console??label=watchers&color=blue&style=flat-square" /></a> <br>
-  <img src="https://img.shields.io/github/repo-size/Keza-Developing-Indonesia/Spamming_WhatsApp_Console" /> <br>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console.svg?type=shield"/></a>
-  src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
+  <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Keza-Developing-Indonesia#Requirements">Pembuat Script</a> •
