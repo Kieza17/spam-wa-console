@@ -1,6 +1,6 @@
 # 🙏 Spamming_WhatsApp_Console
 
-> Spamming WhatsApp Console Adalah Sebuah Script Yang Berguna Untuk Menjaili Atau Ngerjain Seseorang
+> Spamming WhatsApp Console Adalah Sebuah Script Yang Berguna Untuk Menjaili Atau Ngerjain Seseorang <
 
 <h3 align="center">Sript Ini Dibuat Oleh ❤️ Kieza17</h3>
 <p align="center">
