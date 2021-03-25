@@ -12,28 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia"><img title="Stars" src="https://img.shields.io/github/stars/IndonesianDev/whatsapp-bot?color=black&style=flat-square" /></a>
-  <a href="https://github.com/IndonesianDev/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IndonesianDev/whatsapp-bot??color=pink&style=flat-square" /></a>
-  <a href="https://github.com/IndonesianDev/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IndonesianDev/whatsapp-bot??label=watchers&color=blue&style=flat-square" /></a> <br>
-  <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
-  <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
-  <img src="https://img.shields.io/github/repo-size/IndonesianDev/whatsapp-bot" /> <br>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FIndonesianDev%2Fwhatsapp-bot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FIndonesianDev%2Fwhatsapp-bot.svg?type=shield"/></a>
-  <a href="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot"><img src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
+  <a href="https://github.com/Keza-Developing-Indonesia"><img title="Stars" src="https://img.shields.io/github/stars/Keza-Developing-Indonesia/Spamming_WhatsApp_Console?color=black&style=flat-square" /></a>
+  <a href="https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Keza-Developing-Indonesia/Spamming_WhatsApp_Console??color=pink&style=flat-square" /></a>
+  <a href="https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Keza-Developing-Indonesia/Spamming_WhatsApp_Console??label=watchers&color=blue&style=flat-square" /></a> <br>
+  <img src="https://img.shields.io/github/repo-size/Keza-Developing-Indonesia/Spamming_WhatsApp_Console" /> <br>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FKeza-Developing-Indonesia%2FSpamming_WhatsApp_Console.svg?type=shield"/></a>
+  <a href="https://www.codefactor.io/repository/github/Keza-Developing-Indonesia/Spamming_WhatsApp_Console"><img src="https://www.codefactor.io/repository/github/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/badge" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#Requirements">Persyaratan</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#installation">Cara Penginstalan</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#features">Fiturnya</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bot#thanks-to">Terimakasih Kepada</a> •
-  <a href="https://github.com/IndonesianDev/whatsapp-bott#license">lisensi</a>
+  <a href="https://github.com/Keza-Developing-Indonesia#Requirements">Pembuat Script</a> •
+  <a href="https://github.com/Keza-Developing-Indonesia#installation">Cara Penggunaan</a> •
+  <a href="https://github.com/Keza-Developing-Indonesia#features">Kegunaan</a> •
 </p>
-
-<h4 align="center">
-  <a href="https://chat.whatsapp.com/---">Join Group [Keza_WhatsApp_Bot_Indonesia Indonesia]</a>
-</h4>
-</div>
 
 # INSTALL TOOLS
 
