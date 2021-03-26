@@ -1,3 +1,6 @@
+// UDAH GA FUNGSI LAGI KARNA PIHAK WA API UDH UBAH PERSETUJUAN
+// COBA AJA KLO GA PERCYA 
+
 var repeatingSpamFunction = null;
 var message = '';
 
