@@ -28,9 +28,9 @@
 * Setelah Itu Kalian Bisa Ngerjain Orang. wkwkwkkwkwk
 
 ## MY MEDIA SOSIAL 😎
-* [Youtube](https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA) Kieza17
-* [Instagram](https://www.instagram.com/_calyza/) _calyza
-* [WhatsApp](https://api.whatsapp.com/send/?phone=6285601459079&text&app_absent=0) Keza
+* [Youtube](https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA)
+* [Instagram](https://www.instagram.com/_calyza/)
+* [WhatsApp](https://api.whatsapp.com/send/?phone=6285601459079&text&app_absent=0)
 
 ## SPECIAL THANKS TO 🙌
 * `ALLAH SWT`
