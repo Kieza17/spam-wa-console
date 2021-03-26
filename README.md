@@ -16,7 +16,7 @@
  
 # TURTORIALS
 
-* Download Sumbile Text `[Disini](https://www.sublimetext.com/3)`
+* Download Sumbile Text [Disini](https://www.sublimetext.com/3)
 * Install file github `Spamming_WhatsApp_Console`
 * Extract File
 * 
