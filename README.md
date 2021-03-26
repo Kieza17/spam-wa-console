@@ -24,12 +24,11 @@
 * Kemudian pilih salah satu chat yang akan di Spamming.
 * Klik kanan pada `Mouse` kalian, dan pilin `Inspect`
 * Lalu Pastekan Script `Spamming_WhatsApp_Console` tadi ke `Console`
-* Setelah Itu Tekan `Enter`
+* Setelah Itu Tekan `Enter` pada keyboard kalian.
+* Setelah Itu Kalian Bisa Ngerjain Orang. wkwkwkkwkwk
 
-# INSTALLATION
+# MY MEDIA SOSIAL
+* [Youtube](https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA)
+* [Instagram](https://www.instagram.com/_calyza/)
+* [WhatsApp](https://api.whatsapp.com/send/?phone=6285601459079&text&app_absent=0)
 
-## 📝 CLONING_THIS_SCRIPT
-```bash
-> git clone https://github.com/
-> cd 
-```
