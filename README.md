@@ -27,7 +27,7 @@
 * Setelah Itu Tekan `Enter` pada keyboard kalian.
 * Setelah Itu Kalian Bisa Ngerjain Orang. wkwkwkkwkwk
 
-## MY MEDIA SOSIAL
+## MY MEDIA SOSIAL 😎
 * [Youtube](https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA)
 * [Instagram](https://www.instagram.com/_calyza/)
 * [WhatsApp](https://api.whatsapp.com/send/?phone=6285601459079&text&app_absent=0)
