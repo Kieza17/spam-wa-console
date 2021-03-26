@@ -32,3 +32,14 @@
 * [Instagram](https://www.instagram.com/_calyza/)
 * [WhatsApp](https://api.whatsapp.com/send/?phone=6285601459079&text&app_absent=0)
 
+## SPECIAL THANKS TO 🙌
+* `ALLAH SWT`
+* `ORANG TUA`
+* `LAPTOP`
+* `HP`
+* `WIFI`
+* `INTERNET`
+
+## CREATORS 👀 
+* `KIEZA17`
+
