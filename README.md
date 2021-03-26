@@ -14,3 +14,18 @@
 <p align="center">
   <a href="https://wa.me/6285601459079"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
  
+# TURTORIALS
+
+* Download Sumbile Text `[Disini](https://www.sublimetext.com/3)`
+* Install file github `Spamming_WhatsApp_Console`
+* Extract File
+* 
+* 
+
+# INSTALLATION
+
+## 📝 CLONING_THIS_SCRIPT
+```bash
+> git clone https://github.com/
+> cd 
+```
