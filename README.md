@@ -15,15 +15,15 @@
   <a href="https://wa.me/6285601459079"><img title="https://wa.me/6285601459079" src="https://img.shields.io/badge/Whatsapp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
  
 ## TURTORIALS 😀
-* Download `Sumbile Text` [Disini](https://www.sublimetext.com/3)
-* Install file github `Spamming_WhatsApp_Console` [Disini](https://github.com/Kieza17/Spamming_WhatsApp_Console/archive/refs/heads/main.zip)
-* Extract File `Spamming_WhatsApp_Console-main`
+* Download `Visual Studio Code` [Disini](https://code.visualstudio.com/)
+* Install file github `Spamming_WhatsApp_Console` [Disini](https://github.com/Kieza17/spam-wa-console/archive/refs/heads/main.zip)
+* Extract File `spam-wa-console`
 * Buka File Tersebut Menggunakan `Sumblime Text`
-* Kemudian Copy semua teks yang terdapat di dalam script `Spamming_WhatsApp_Console`
+* Kemudian Copy semua teks yang terdapat di dalam script `spam-wa-console`
 * Setelah itu buka `WhatsApp Web` kalian [Disini](https://web.whatsapp.com/)
 * Kemudian pilih salah satu chat yang akan di Spamming.
-* Klik kanan pada `Mouse` kalian, dan pilin `Inspect`
-* Lalu Pastekan Script `Spamming_WhatsApp_Console` tadi ke `Console`
+* Klik kanan pada `Mouse` kalian, dan pilih `Inspect Element`
+* Lalu Pastekan Script `spam-wa-console` tadi ke `Console`
 * Setelah Itu Tekan `Enter` pada keyboard kalian.
 * Setelah Itu Kalian Bisa Ngerjain Orang. wkwkwkkwkwk
 
