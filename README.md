@@ -4,11 +4,11 @@
 
 <h3 align="center">Sript Ini Dibuat Oleh ❤️ Kieza17</h3>
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia"><img src="https://i.postimg.cc/HLLxHHL9/IMG-20210301-211514.jpg" 
+  <a href="https://github.com/Kieza17">
 </p>
    
 <p align="center">
-  <a href="https://github.com/Keza-Developing-Indonesia"><img title="Author" src="https://img.shields.io/badge/Author-Kieza17-darkred.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Kieza17"><img title="Author" src="https://img.shields.io/badge/Author-Kieza17-darkred.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
  
 ## TURTORIALS 😀
 * Download `Sumbile Text` [Disini](https://www.sublimetext.com/3)
-* Install file github `Spamming_WhatsApp_Console` [Disini](https://github.com/Keza-Developing-Indonesia/Spamming_WhatsApp_Console/archive/refs/heads/main.zip)
+* Install file github `Spamming_WhatsApp_Console` [Disini](https://github.com/Kieza17/Spamming_WhatsApp_Console/archive/refs/heads/main.zip)
 * Extract File `Spamming_WhatsApp_Console-main`
 * Buka File Tersebut Menggunakan `Sumblime Text`
 * Kemudian Copy semua teks yang terdapat di dalam script `Spamming_WhatsApp_Console`
